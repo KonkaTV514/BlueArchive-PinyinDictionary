@@ -1,9 +1,12 @@
 # BlueArchive-PinyinDictionary
-**作者高三，暂停更新**
+> 原仓库已存档，本项目由我继续维护
+> 
+> - 原作者：ylhcqN（因高三学业暂停更新）
+> - 当前维护者：KonkaTV514
 
-**作者高三，暂停更新**
+## 📢 项目状态更新
+本Fork将继续更新词库，欢迎提交Issue和PR！
 
-**作者高三，暂停更新**
 ![Image text](background.png)
 
 蔚蓝档案的输入法词库，支持fcitx5、rime、搜狗，词库以CC BY-NC授权，仓库以GPL3.0授权
